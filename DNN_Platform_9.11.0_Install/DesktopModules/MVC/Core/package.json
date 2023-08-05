@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "SET NODE_OPTIONS=--openssl-legacy-provider && npm run dnndev",
     "dnndev": "webpack --mode development --watch",
     "dnnbuild": "webpack --mode production"
   },

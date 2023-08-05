@@ -8,13 +8,8 @@ document.onreadystatechange = function () {
   if (state == 'complete') {
       var els = document.getElementsByClassName("react-app");
       Array.prototype.forEach.call(els, function(el) {
-        var moduleId = el.id.replace("module-", "");
-        var service = {
-          path: "DnnFree.Modules.SPA.React",
-          framework: $.ServicesFramework(moduleId)
-        }
-        service.baseUrl = service.framework.getServiceRoot(service.path);
-        ReactDOM.render(<Layout mid={moduleId} service={service} />, el);
+        var moduleId = el.id.replace("module-", ""); 
+        ReactDOM.render(<Layout />, el);
       });
   }
 }
