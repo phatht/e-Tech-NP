@@ -1,0 +1,9 @@
+$primary-color: red;
+ 
+.label {
+    font-size: 14px;
+    color: $primary-color;
+    &:hover {
+        color: orange;
+    }
+}
