@@ -1,6 +1,0 @@
-D:\e-Tech-NP\DNN_Platform_9.11.0_Install\DesktopModules\MVC\Core.DB\bin\Debug\Core.Database.dacpac
-D:\e-Tech-NP\DNN_Platform_9.11.0_Install\DesktopModules\MVC\Core.DB\bin\Debug\Core.DB.dll
-D:\e-Tech-NP\DNN_Platform_9.11.0_Install\DesktopModules\MVC\Core.DB\bin\Debug\Core.DB.pdb
-D:\e-Tech-NP\DNN_Platform_9.11.0_Install\DesktopModules\MVC\Core.DB\obj\Debug\Core.Database.sqlproj.AssemblyReference.cache
-D:\e-Tech-NP\DNN_Platform_9.11.0_Install\DesktopModules\MVC\Core.DB\obj\Debug\Core.DB.dll
-D:\e-Tech-NP\DNN_Platform_9.11.0_Install\DesktopModules\MVC\Core.DB\obj\Debug\Core.DB.pdb
