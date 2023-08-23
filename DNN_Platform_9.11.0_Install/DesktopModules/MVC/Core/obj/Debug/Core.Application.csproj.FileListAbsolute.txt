@@ -1,0 +1,10 @@
+D:\e-Tech-NP\DNN_Platform_9.11.0_Install\bin\Core.dll.config
+D:\e-Tech-NP\DNN_Platform_9.11.0_Install\bin\Core.dll
+D:\e-Tech-NP\DNN_Platform_9.11.0_Install\bin\Core.pdb
+D:\e-Tech-NP\DNN_Platform_9.11.0_Install\DesktopModules\MVC\Core\obj\Debug\Core.Application.csproj.AssemblyReference.cache
+D:\e-Tech-NP\DNN_Platform_9.11.0_Install\DesktopModules\MVC\Core\obj\Debug\Core.Application.Modules.Core.App_LocalResources.Settings.resources
+D:\e-Tech-NP\DNN_Platform_9.11.0_Install\DesktopModules\MVC\Core\obj\Debug\Core.Application.csproj.GenerateResource.cache
+D:\e-Tech-NP\DNN_Platform_9.11.0_Install\DesktopModules\MVC\Core\obj\Debug\Core.Application.csproj.CoreCompileInputs.cache
+D:\e-Tech-NP\DNN_Platform_9.11.0_Install\DesktopModules\MVC\Core\obj\Debug\Core.Application.csproj.CopyComplete
+D:\e-Tech-NP\DNN_Platform_9.11.0_Install\DesktopModules\MVC\Core\obj\Debug\Core.dll
+D:\e-Tech-NP\DNN_Platform_9.11.0_Install\DesktopModules\MVC\Core\obj\Debug\Core.pdb
